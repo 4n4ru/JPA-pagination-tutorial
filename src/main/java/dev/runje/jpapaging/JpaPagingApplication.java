@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JpaPagingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JpaPagingApplication.class, args);
-	}
+		SpringApplication.run(JpaPagingApplication.class, args);}
 
 }
